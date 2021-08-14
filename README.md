@@ -1,9 +1,9 @@
 # java面试必备总结
 1. javaSE
-    1. java集合  
-    2. javaIO
-    3. java多线程
-    4. java String、StringBuffer、StringBuilder及正则表达式
+    + java集合  
+    +. javaIO
+    +. java多线程
+    +. java String、StringBuffer、StringBuilder及正则表达式
 2. javaEE
     1. spring
     2. springMVC
